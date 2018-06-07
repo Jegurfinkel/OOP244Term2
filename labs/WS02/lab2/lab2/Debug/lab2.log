@@ -1,0 +1,4 @@
+﻿  Kingdom.cpp
+c:\users\jeffr\documents\school\oop244\labs\ws02\lab2\lab2\kingdom.h(25): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\users\jeffr\documents\school\oop244\labs\ws02\lab2\lab2\kingdom.cpp(17): warning C4227: anachronism used: qualifiers on reference are ignored
+  lab2.vcxproj -> C:\Users\Jeffr\Documents\school\OOP244\labs\WS02\lab2\lab2\Debug\lab2.exe

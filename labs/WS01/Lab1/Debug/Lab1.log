@@ -1,0 +1,6 @@
+﻿  tools.cpp
+graph.obj : error LNK2019: unresolved external symbol "int __cdecl sict::getInt(int,int)" (?getInt@sict@@YAHHH@Z) referenced in function "void __cdecl sict::getSamples(int * const,int)" (?getSamples@sict@@YAXQAHH@Z)
+seneGraph.obj : error LNK2001: unresolved external symbol "int __cdecl sict::getInt(int,int)" (?getInt@sict@@YAHHH@Z)
+tools.obj : error LNK2001: unresolved external symbol "int __cdecl sict::getInt(int,int)" (?getInt@sict@@YAHHH@Z)
+seneGraph.obj : error LNK2019: unresolved external symbol "int __cdecl sict::menu(void)" (?menu@sict@@YAHXZ) referenced in function _main
+C:\Users\Jeffr\Desktop\WS01\Lab1\Debug\Lab1.exe : fatal error LNK1120: 2 unresolved externals

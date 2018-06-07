@@ -1,0 +1,38 @@
+/***********************************************************************
+// OOP244 Workshop 1: Compiling modular source code
+// reflect.txt
+// Version 2.0
+// 
+Date	2018/05/18
+// Author	Jeffrey Gurfinkel, jegurfinkel@myseneca.ca, 066364092
+// Description
+// Reflecting on what I have learnt and how to imporve
+//
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+1.	What is a namespace? Explain its purpose.
+it is a way of tagging variable names. It makes it so diffrent variables can have the same name if they are in diffrent namespaces.
+2.	Why are header files needed? Explain.
+The header files have the functions prototypes in them so the program knows that they exist.
+3.	In the instructions above, you were directed to compile only .cpp files but not the .h files. Explain why you should never compile header files.
+nothing will happen.
+4.	Explain why you should never include .cpp files in another file.
+It wont work.
+5.	Explain in your own words what have you learned on this workshop.
+this was a lot easier the second time. I’ve also learnt that it's nicer to program when it's light out then in the middle of winter when it's dark out.
+
+
+var X = 1;
+Quiz X Reflection:
+
+4.
+	&a
+	a.
+	apple
+5.
+	float* ar[6]
+6. 
+	double*
+7.	
+	deleat [] myCourses
